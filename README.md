@@ -1,1 +1,1 @@
-# Remote-controlled-6-switch-relay-system
+## 6 switch relay system
