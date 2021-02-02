@@ -159,7 +159,5 @@ Login with these credentials:
 
 
 ##  3. Testing the product : <a name="testing"></a>
-Some introduction text, formatted in heading 2 style
 
 ##  4. Reporting Errors and Troubleshooting: <a name="reporting"></a>
-Some introduction text, formatted in heading 2 style
